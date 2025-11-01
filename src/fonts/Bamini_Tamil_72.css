@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Bamini_Tamil_72';
+  src: url('./Bamini_Tamil_72.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.bamini-text {
+  font-family: 'Bamini_Tamil_72', sans-serif;
+}
